@@ -181,6 +181,7 @@ z-index: 1;
 .pods-holder{
     position: absolute;
     margin-top: 3000px;
+    margin-left: -50px;
 }
 .view2,.buy2{
     margin:  1200px 0 0 -970px;

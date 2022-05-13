@@ -6,3 +6,4 @@ function closeNav(){
     document.getElementById("nav-contains").style.width = "0%"
     document.getElementById("nav-holder").style.display = "block";
 }
+

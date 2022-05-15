@@ -263,15 +263,16 @@ margin: 20px ;
     margin: 150px 0 0 40px;
     width: 450px;
     height: 250px;
-    border: 1px solid black;
+    border: 5px solid black;
 }
 .blog-img-holder{
     width: 100%;
+    margin-bottom: 50px;
     /* position: absolute; */
     /* border: 3px solid black; */
 }
 .blogtext{
- font-size: 36px;
+ font-size: 24px;
  margin: -205px 0 0 520px;
 }
 

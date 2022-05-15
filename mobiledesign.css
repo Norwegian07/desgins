@@ -180,7 +180,7 @@ margin: -75px 0px 0px 15px;
     width: 90%;
     height: 450px;
     /* border: 5px solid black; */
-box-shadow: 30px 55px 70px rgba(0, 0, 0, 0.551);
+box-shadow: 2px 2px 40px rgb(0, 0, 0);
 }
 
 .mini-img{
@@ -235,7 +235,7 @@ box-shadow: 30px 55px 70px rgba(0, 0, 0, 0.551);
 .mini-circle{
     position: absolute;
     margin: 15% 0 0 65%;
-    box-shadow: 22px 15px 70px rgb(0, 0, 0);
+    box-shadow: 2px 2px 50px black;
     width: 200px;
     height: 200px;
     border-radius: 50%;

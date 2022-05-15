@@ -234,16 +234,16 @@ box-shadow: 2px 2px 40px rgb(0, 0, 0);
 }
 .mini-circle{
     position: absolute;
-    margin: 15% 0 0 65%;
+    margin: 17% 0 0 65%;
     box-shadow: 2px 2px 50px black;
-    width: 200px;
-    height: 200px;
+    width: 170px;
+    height: 170px;
     border-radius: 50%;
     background: linear-gradient(to right, rgba(255, 20, 145, 0.39),rgba(255, 0, 0, 0.167));
 }
 .more{
- width: 150px;
-margin: 25px ;
+ width: 130px;
+margin: 20px ;
 }
 
 .mini-text{
@@ -254,6 +254,28 @@ margin: 25px ;
     font-size: 60px;
     position: absolute;
 }
+
+#part-3{
+    margin: 200px 0 0 0 ;
+}
+
+.blog-img{
+    margin: 150px 0 0 40px;
+    width: 450px;
+    height: 250px;
+    border: 1px solid black;
+}
+.blog-img-holder{
+    width: 100%;
+    /* position: absolute; */
+    /* border: 3px solid black; */
+}
+.blogtext{
+ font-size: 36px;
+ margin: -205px 0 0 520px;
+}
+
+
 
 
 

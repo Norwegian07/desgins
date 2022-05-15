@@ -106,12 +106,12 @@ margin: -75px 0px 0px 15px;
     /* border: 1px solid black; */
 }
 .launches{
-    margin: 100px 0 0 0px;
+    margin: 200px 0 0 0px;
     overflow: hidden;
 }
 .new-mb{
-    width: 1000px;
-    height: 1000px;
+    width: 900px;
+    height: 900px;
 }
 .mb-text,.text2,.text3{
     margin: 0 0 0 105px;
@@ -129,7 +129,7 @@ margin: -75px 0px 0px 15px;
 /* ================== */
 
 .watch-holder{
-    margin: 100px 0 0 0;
+    margin: 0px 0 0 0;
 }
 .new-wt{
     width: 700px;
@@ -147,9 +147,7 @@ margin: -75px 0px 0px 15px;
 }
 
 /* ============ */
-.pods-holder{
-    margin-top: 100px;
-}
+
 .new-bud{
     width: 1000px;
 }
@@ -171,7 +169,7 @@ margin: -75px 0px 0px 15px;
 }
 .mini-holder{
     width: 100%;
-     margin: 0 0 0 25px; 
+     margin: 0 0 0 20px; 
 }
 .mini{
     border-radius: 35px;
@@ -276,10 +274,40 @@ margin: 20px ;
  margin: -205px 0 0 520px;
 }
 
+footer{
+    background: linear-gradient(to right,rgba(0, 12, 19, 0.866),rgba(6, 33, 40, 0.833));
+    width: 100%;
+    height: 600px;
+    margin: 150px 0 0 0;
+}
+.footer-text{
+    background: linear-gradient(to right,turquoise,white);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    position: absolute;
+    font-size: 65px;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    margin: 100px 0 0 70px;
+}
+.copyright{
+    position: absolute;
+    color: rgba(255, 255, 255, 0.4);
+    font-size: 46px;
+    margin: 500px 0 0 350px;
+}
+.follow{
+    position: absolute;
+    margin: 250px 0 0 205px;
 
-
-
-
+}
+.follow svg{
+    width: 100px;
+    height: 100px;
+   padding-left: 60px;
+   color: rgba(0, 255, 255, 0.767);
+}
 
 
 }

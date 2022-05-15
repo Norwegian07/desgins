@@ -171,20 +171,57 @@ box-shadow: 30px 55px 70px rgba(0, 0, 0, 0.551);
 
 .mini-img{
     border-radius: 50%;
-    margin: 50px 0 0 50px ;
+    margin: 70px 0 0 50px ;
     width: 300px;   
     position: absolute; 
     /* border: 1px solid black; */
 }
 .mini-img2{
-    margin: 150px 0 0 180px;
+    margin: 170px 0 0 180px;
     width: 250px;
     position: absolute;
+}
+.mini-img3{
+    margin: 130px 0 0 50px;
+    width: 250px;
+    position: absolute;
+}
+.mini-img4{
+    position: absolute;
+    margin: 180px 0 0 200px;
+    width: 180px;
+    position: absolute;
+}
+.mini-img5{
+    position: absolute;
+    width: 300px;
+    margin: 80px 0 0 50px;
+}
+.mini-img6{
+    position: absolute;
+    width: 300px;
+    margin: 80px 0 0 50px;
+}
+.mini-img7{
+    position: absolute;
+    width: 300px;
+    margin: 100px 0 0 25px;
+}
+.mini-img8{
+    position: absolute;
+    width: 150px;
+    margin: 100px 0 0 250px;
+}
+.mini-img9{
+    position: absolute;
+    width: 150px;
+    margin: 100px 0 0 250px;
+
 }
 .mini-circle{
     position: absolute;
     margin: 15% 0 0 65%;
-    box-shadow: 22px 15px 80px rgb(0, 0, 0);
+    box-shadow: 22px 15px 70px rgb(0, 0, 0);
     width: 200px;
     height: 200px;
     border-radius: 50%;

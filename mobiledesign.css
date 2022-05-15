@@ -91,12 +91,22 @@ margin: -75px 0px 0px 15px;
 }
 
 /* new arrivals */
+#one{
+    margin: 45px 0 0 150px;
+    font-size: 60px;
+    font-weight: bolder;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background: linear-gradient(to right,red,orange,yellow);
+     -webkit-text-fill-color: transparent;
+    background-clip: text;
+    -webkit-background-clip: text;
+}
 #newarrival{
-    height: 1400px;
+    height: 1300px;
     /* border: 1px solid black; */
 }
 .launches{
-    margin: 25px 0 0 0px;
+    margin: 45px 0 0 0px;
     overflow: hidden;
 }
 .new-mb{

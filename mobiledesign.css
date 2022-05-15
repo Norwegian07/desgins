@@ -281,6 +281,7 @@ footer{
     margin: 150px 0 0 0;
 }
 .footer-text{
+    font-weight: bolder;
     background: linear-gradient(to right,turquoise,white);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: white;

@@ -3,8 +3,6 @@ html,body{
     width: 100%;
     margin: auto;
     height: auto;
-    color: white;
-    background-color: black;
 }
 /* nav css */
 #nav{
@@ -240,6 +238,10 @@ box-shadow: 2px 2px 40px rgb(0, 0, 0);
     height: 170px;
     border-radius: 50%;
     background: linear-gradient(to right, rgba(255, 20, 145, 0.39),rgba(255, 0, 0, 0.167));
+}
+.mini-circle:hover{
+    transform: rotate(360deg);
+    transition: 0.5s;
 }
 .more{
  width: 130px;

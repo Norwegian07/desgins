@@ -1,0 +1,40 @@
+
+@media screen and (max-width : 1000px) {
+    
+
+
+.lapcircle,.tabcircle1{
+    width: 200px;
+    height: 200px;
+    border: 5px solid black;
+    border-radius: 50%;
+    float: left;
+    margin-left: 25px;
+}
+.lapcircle-holder{
+    margin: 100px 0 0 25px;
+}
+.lapsholder{
+    margin-top: 300px;
+    position: absolute;
+}
+.laps,.tabs{
+    margin: 10px 0px 30px 10px;
+    float: left;
+    width: 465px;
+    height: 600px;
+    border: 5px solid black;
+}
+.tabcircle-holder1{
+    position: absolute;
+    margin: 1700px 0 0 25px;
+}
+.tabsholder{
+    position: absolute;
+    margin-top: 2000px;
+}
+.footer{
+    margin-top: 3520px;
+}
+
+}

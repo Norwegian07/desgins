@@ -5,6 +5,22 @@ html,body{
     height: auto;
 }
 /* nav css */
+nav{
+    background: linear-gradient(to right,rgba(0, 12, 19, 0.866),rgba(6, 33, 40, 0.833));
+}
+.nav-text{
+    margin: 25px 0 0 45px ; 
+    font-weight: bolder;
+    background: linear-gradient(to right,turquoise,white);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    position: absolute;
+    font-size: 65px;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+ 
+}
 #nav{
     width: 100%;
     height: 140px;
@@ -277,9 +293,11 @@ margin: 20px ;
     /* border: 3px solid black; */
 }
 .blogtext{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bolder;
     position: absolute;
- font-size: 45px;
- margin: -155px 0 0 520px;
+ font-size: 40px;
+ margin: -155px 0 0 540px;
 }
 
 footer{

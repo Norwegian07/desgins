@@ -3,6 +3,8 @@ html,body{
     width: 100%;
     margin: auto;
     height: auto;
+    color: white;
+    background-color: black;
 }
 /* nav css */
 #nav{
@@ -261,6 +263,9 @@ margin: 20px ;
     margin: 150px 0 0 40px;
     width: 450px;
     height: 250px;
+    box-shadow: 5px 5px 35px ;
+    transform: rotate(10deg);
+
     /* border: 5px solid black; */
 }
 .blog-img-holder{
@@ -272,7 +277,7 @@ margin: 20px ;
 .blogtext{
     position: absolute;
  font-size: 45px;
- margin: -205px 0 0 520px;
+ margin: -155px 0 0 520px;
 }
 
 footer{

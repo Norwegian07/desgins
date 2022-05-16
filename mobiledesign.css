@@ -24,7 +24,7 @@ nav{
 #nav{
     width: 100%;
     height: 140px;
-    border: 5px solid black;
+    /* border: 5px solid black; */
 }
 #nav-holder,#closebtn{
     float: right;
@@ -39,7 +39,7 @@ nav{
 .circle1,.circle2,.circle3,.circle4,.circle5,.circle6{
     width: 80px;
     height: 80px;
-    border: 5px solid black;
+    border: 5px solid white;
     border-radius: 50% ;
 }
 
@@ -47,7 +47,6 @@ nav{
     position: absolute;
     height: 50px;
     width: 50px;
-    border: 5px solid black;
 border-radius: 50% ;
 margin: -75px 0px 0px 15px;
 }
@@ -185,12 +184,13 @@ margin: -75px 0px 0px 15px;
 }
 .mini-holder{
     width: 100%;
-     margin: 0 0 0 15px; 
+     margin: 0 0 0 4px;
+     /* padding-left: 20px;  */
 }
 .mini{
     border-radius: 35px;
     background: linear-gradient(to right,rgba(255, 0, 0, 0.563),rgba(255, 255, 0, 0.066));
-     margin: 20px 0 50px 20px; 
+     margin: 20px 0 50px 35px; 
     width: 90%;
     height: 450px;
     /* border: 5px solid black; */

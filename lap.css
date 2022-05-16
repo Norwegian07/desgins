@@ -11,6 +11,27 @@
     float: left;
     margin-left: 25px;
 }
+.lap-img{
+    width: 180px;
+    position: absolute;
+    margin: -305px 0 0 50px;
+}
+.lap-img1{
+    width: 180px;
+    position: absolute;
+    margin: -300px 0 0 -200px;
+}
+.lap-img2{
+    width: 180px;
+    position: absolute;
+    margin: -950px 0 0 520px;
+}
+.lap-img3{
+    width: 140px;
+    position: absolute;
+margin : -930px 0 0 290px;
+}
+
 .lapcircle-holder{
     margin: 100px 0 0 25px;
 }

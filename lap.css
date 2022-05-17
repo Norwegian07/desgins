@@ -11,27 +11,32 @@
     float: left;
     margin-left: 25px;
 }
-.lap-img{
+.lap-icon{
     width: 180px;
-    position: absolute;
-    margin: -305px 0 0 50px;
+    margin: 5px 0 0 10px;
+}
+.lap-icon1{
+    width: 180px;
+    margin: 10px 0 0 10px;
+}
+.lap-icon2{
+    margin: 10px 0 0 10px;
+    width: 180px;
+}
+.lap-icon3{
+    width: 180px;
+    margin: 5px 0 0 8px;
+}
+.lap-img{
+    width: 465px;
+    height: 600px;
+    border-radius: 35px;
 }
 .lap-img1{
-    width: 180px;
-    position: absolute;
-    margin: -300px 0 0 -200px;
+    border-radius: 35px;
+    width: 465px;
+    height: 350px;
 }
-.lap-img2{
-    width: 180px;
-    position: absolute;
-    margin: -950px 0 0 520px;
-}
-.lap-img3{
-    width: 140px;
-    position: absolute;
-margin : -930px 0 0 290px;
-}
-
 .lapcircle-holder{
     margin: 100px 0 0 25px;
 }
@@ -40,10 +45,12 @@ margin : -930px 0 0 290px;
     position: absolute;
 }
 .laps,.tabs{
+    background: rgb(38, 36, 36);
     margin: 10px 0px 30px 10px;
     float: left;
     width: 465px;
     height: 600px;
+    border-radius: 35px;
     border: 5px solid black;
 }
 .tabcircle-holder1{
@@ -54,6 +61,26 @@ margin : -930px 0 0 290px;
     position: absolute;
     margin-top: 2000px;
 }
+.tab-img{
+    border-radius: 50%;
+    width: 180px;
+    margin: 10px 0 0 10px; 
+}
+.tab-img1{
+    width: 200px;
+}
+.tab-img2{
+    width: 160px;
+    margin: 10px 0 0 18px;
+}
+.tab-img3{
+    width: 190px;
+    margin: 0 0 0 5px;
+}
+
+
+
+
 .footer{
     margin-top: 3520px;
 }

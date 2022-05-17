@@ -80,7 +80,7 @@
 .laps a{
     text-decoration: none;
 }
-.gaming,.office{
+.gaming,.office,.personal,.heavyusage{
     background: linear-gradient(to right,turquoise,white);
     background-clip: text;
     -webkit-background-clip: text;
@@ -91,6 +91,8 @@
     letter-spacing: 1px;
     font-family: various,sans-serif;
     margin-left: 10px;
+}.personal,.heavyusage{
+    font-size: 36px;
 }
 .office{
 margin-left: 18px;
@@ -104,7 +106,7 @@ margin-left: 18px;
     width: 60%;
     text-align: center;
     border-radius: 105px;
-    margin: 0PX 0 0 80PX;
+    margin: 0px 0 0 80px;
   background: linear-gradient(to right, red,orange);
   background-clip: text;
   -webkit-background-clip: text;

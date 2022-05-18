@@ -32,7 +32,7 @@
     height: 350px;
     border-radius: 35px;
 }
-.lap-img1{
+.lap-img1,.tab-img{
     border-radius: 35px;
     width: 465px;
     height: 350px;
@@ -61,26 +61,26 @@
     position: absolute;
     margin-top: 2000px;
 }
-.tab-img{
+.tab-icon{
     border-radius: 50%;
     width: 180px;
     margin: 10px 0 0 10px; 
 }
-.tab-img1{
+.tab-icon1{
     width: 200px;
 }
-.tab-img2{
+.tab-icon2{
     width: 160px;
     margin: 10px 0 0 18px;
 }
-.tab-img3{
+.tab-icon3{
     width: 190px;
     margin: 0 0 0 5px;
 }
 .laps a{
     text-decoration: none;
 }
-.gaming,.office,.personal,.heavyusage{
+.gaming,.office,.personal,.student{
     background: linear-gradient(to right,turquoise,white);
     background-clip: text;
     -webkit-background-clip: text;
@@ -91,11 +91,10 @@
     letter-spacing: 1px;
     font-family: various,sans-serif;
     margin-left: 10px;
-}.personal,.heavyusage{
-    font-size: 36px;
+    width: 100%;
 }
 .office{
-margin-left: 18px;
+margin-left: 15px;
 }
 .explore{
     color: white;

@@ -32,7 +32,7 @@
     height: 350px;
     border-radius: 35px;
 }
-.lap-img1,.tab-img{
+.lap-img1,.tab-img,.mb-img{
     border-radius: 35px;
     width: 465px;
     height: 350px;
@@ -80,7 +80,7 @@
 .laps a{
     text-decoration: none;
 }
-.gaming,.office,.personal,.student{
+.gaming,.ebooks,.office,.personal,.student{
     background: linear-gradient(to right,turquoise,white);
     background-clip: text;
     -webkit-background-clip: text;
@@ -92,6 +92,10 @@
     font-family: various,sans-serif;
     margin-left: 10px;
     width: 100%;
+}
+.ebooks{
+    margin-left: 120px;
+    width: 300px;
 }
 .office{
 margin-left: 15px;

@@ -1,5 +1,5 @@
 function openNav(){
-    document.getElementById("nav-contains").style.width = "100%";
+    document.getElementById("nav-contains").style.width = "20%";
     document.getElementById("nav-holder").style.display = "none";
 }
 function closeNav(){
